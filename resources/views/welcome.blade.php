@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laraibia Mobile Store 
+                    Laraibia Mobile Store  
                 </div>
 
                 <div class="links">
